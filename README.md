@@ -26,3 +26,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/personal-website.git
+
+
+## Ship
+
+ship link: https://hackclub.slack.com/archives/C0M8PUPU6/p1723719358941569
